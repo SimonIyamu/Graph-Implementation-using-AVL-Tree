@@ -6,10 +6,8 @@ There are no restrictions regarding the size of the graph, since it was implemen
 
 Insert Ni as a new node:
 >i Ni
-
 Insert a new edge between ni and Nj of weight w:
 >n Ni Nj w
-
 Delete a node from the graph (and edges that are connected to it)Q
 >d Ni
 
